@@ -1,3 +1,3 @@
 # nikunj-demo1
 This is my first git repository
-Author - Nikunj Luhadiya
+Author - Nikunj Luhadiya (Jain)
